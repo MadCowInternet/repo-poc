@@ -1,11 +1,11 @@
 [
     {
         "ID": "57b1cdfe5430c",
-        "Name": "JCM SQL test",
+        "Name": "SQL test",
         "Type": "DATABASE",
         "LIM_id": "d30bf226-4834-11e6-b300-22000b13f019",
         "Editable": true,
-        "LIM_name": "Bedell sandbox",
+        "LIM_name": "JER sandbox",
         "Category": "Test",
         "data_type": "lookup",
         "allow_offline": 0,

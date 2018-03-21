@@ -1,0 +1,8 @@
+Integration description - Test integration
+==========================================
+
+Name: Test integration
+Type: SQL
+Description: A test integration for databases.
+
+

@@ -1,0 +1,16 @@
+[
+    {
+        "ID": "57b1cdfe5430c",
+        "Name": "JCM SQL test",
+        "Type": "DATABASE",
+        "LIM_id": "d30bf226-4834-11e6-b300-22000b13f019",
+        "Editable": true,
+        "LIM_name": "Bedell sandbox",
+        "Category": "Test",
+        "data_type": "lookup",
+        "allow_offline": 0,
+        "Output_template": "{\"systemID\":\"57b1c45c19a40\",\"systemName\":\"Forms Dev\",\"query\":\"SELECT null as MyNull\\n\\t,'' as MyBlank\\n\\t,3 + 5 as Integer\\n\\t,GetDate() as Now\",\"results_page_columns_db\":\"\",\"escapeTokens\":\"yes\"}",
+        "log_only_on_error": 0,
+        "error_notification": "{\"LIM_id\":\"3f07ecf4-0dfa-11e2-b0b9-12313b03ed59\",\"LIM_name\":\"LIM14\",\"recipients_to\":\"\"}"
+    }
+]

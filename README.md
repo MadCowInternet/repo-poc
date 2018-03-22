@@ -7,7 +7,7 @@ The README could act as an index to list the documentation that will normally de
   - Live deploy date: 
   - Live updated date:
 
-## Documentation manifest
+## Documentation checklist
 
 - Product description
 - Process description(s)

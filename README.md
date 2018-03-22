@@ -11,7 +11,7 @@ Live status: Pending / Deployed
 
 - Product description
 - Process description(s)
--- Process JSON
+  - Process JSON
 
 Integration description(s)
 - Integration JSON

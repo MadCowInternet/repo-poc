@@ -1,8 +1,0 @@
-Product description
-===================
-
-Sample product description is here to show how the structure could work.
-
-Will use JSON files from a training process - "Test Hannah".
-
-

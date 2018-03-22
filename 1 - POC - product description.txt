@@ -1,0 +1,21 @@
+# Product - Proof of concept release control
+
+|| Sample product description is here to show how the structure could work.
+|| Will use JSON files from a training process - "Test Hannah".
+
+## Description
+
+Built for the ABC business unit.
+
+The product allows us to process things quicker and better.
+
+The product takes information from the ABC business unit, applies some automated processing using the XYZ web services and passes the response automatically to the DEF business unit. 
+Approximate time saving for each case is 35 minutes.
+
+## Key people
+Business owner: Karen Jones
+Product ownder: John Smith
+
+
+
+
